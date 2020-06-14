@@ -1,0 +1,22 @@
+{
+  "name": "picreddit",
+  "version": "1.0.0",
+  "description": "Pick random specified reddit picture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjieDec/picreddit.git"
+  },
+  "keywords": [
+    "reddit"
+  ],
+  "author": "Poor_RBs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KenjieDec/picreddit/issues"
+  },
+  "homepage": "https://github.com/KenjieDec/picreddit#readme"
+}
